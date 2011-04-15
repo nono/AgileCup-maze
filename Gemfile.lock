@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    minitest (2.1.0)
+    yajl-ruby (0.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  yajl-ruby
